@@ -1,6 +1,6 @@
 <h1 align="center">🩺 Medicine Recommender System 🚑</h1>
 <hr>
-<h3 align="center" style="color:green;">Advance Healthcare System</h3>
+<h3 align="center">Advance Healthcare System</h3>
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-v1.1.2-blue" alt="Flask version">
